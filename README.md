@@ -4,8 +4,6 @@
 
 一个基于 Java 的课程项目整理版，用来完成测井数据读取、储层参数计算、结果查询、排序统计和油层筛选。
 
-这份仓库不是把原始作业代码原封不动丢上来，而是把它重新收拾成了一个更适合展示、复用和继续扩展的 GitHub 项目。
-
 <p>
   <img src="https://img.shields.io/badge/Language-Java%2017-2f80ed" />
   <img src="https://img.shields.io/badge/Project-Course%20Project-27ae60" />
